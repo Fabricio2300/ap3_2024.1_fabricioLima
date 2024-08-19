@@ -1,8 +1,12 @@
 package br.com.ap3.distancia;
 
+//Xico - Corrigindo: o nome da classe está errado
+//Xico - Corrigindo: Falta codigo secreto
+//Xico - Corrigindo: Falta javadoc
+
 import java.util.Scanner;
 
-public class Questao1 {
+public class Questao1 { //
 
     public static double getDistancia() {
         Scanner teclado = new Scanner(System.in);
