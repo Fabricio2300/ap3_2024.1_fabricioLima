@@ -13,6 +13,7 @@ public class Questao1 {
         x1 = teclado.nextDouble();
         y1 = teclado.nextDouble();
         x2 = teclado.nextDouble();
+        y2 = teclado.nextDouble();
 
         distancia = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
 
